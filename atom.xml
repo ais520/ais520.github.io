@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>echo</title>
   
-  <subtitle>生活是这样</subtitle>
+  <subtitle>Echo</subtitle>
   <link href="https://www.echo24.top/atom.xml" rel="self"/>
   
   <link href="https://www.echo24.top/"/>
