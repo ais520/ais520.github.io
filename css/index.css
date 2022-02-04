@@ -3565,6 +3565,19 @@ h1.page-title + .tag-cloud-list {
 #nav .site-page:not(.child):hover:after {
   width: 100%;
 }
+:not(.not-top-img):before {
+  background-color: transparent !important;
+}
+.post-bg:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0,0,0,0.5) !important;
+  content: '';
+}
 #pagination .pagination {
   margin-top: 20px;
   text-align: center;
