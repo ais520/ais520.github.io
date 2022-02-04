@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.echo24.top/music/index.html</loc>
+    <loc>https://www.echo24.top/about/index.html</loc>
     
     <lastmod>2022-02-04</lastmod>
     
@@ -20,9 +20,9 @@
   </url>
   
   <url>
-    <loc>https://www.echo24.top/2022/01/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>https://www.echo24.top/categories/index.html</loc>
     
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,25 @@
   <url>
     <loc>https://www.echo24.top/tags/index.html</loc>
     
-    <lastmod>2022-02-02</lastmod>
+    <lastmod>2022-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.echo24.top/2022/01/30/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2022-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.echo24.top/music/index.html</loc>
+    
+    <lastmod>2022-02-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -41,24 +59,6 @@
     <loc>https://www.echo24.top/friends/index.html</loc>
     
     <lastmod>2022-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.echo24.top/categories/index.html</loc>
-    
-    <lastmod>2022-01-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.echo24.top/about/index.html</loc>
-    
-    <lastmod>2022-01-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -75,13 +75,6 @@
   
   <url>
     <loc>https://www.echo24.top/tags/%E5%8F%A4%E8%AF%97%E6%96%87/</loc>
-    <lastmod>2022-02-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.echo24.top/tags/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2022-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
