@@ -2,9 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.echo24.top/music/index.html</loc>
+    
+    <lastmod>2022-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.echo24.top/movies/index.html</loc>
+    
+    <lastmod>2022-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.echo24.top/2022/02/03/%E8%BE%9B%E5%BC%83%E7%96%BE/</loc>
     
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +76,7 @@
 
   <url>
     <loc>https://www.echo24.top/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -66,14 +84,14 @@
   
   <url>
     <loc>https://www.echo24.top/tags/%E5%8F%A4%E8%AF%97%E6%96%87/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.echo24.top/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -82,7 +100,7 @@
   
   <url>
     <loc>https://www.echo24.top/categories/%E5%8F%A4%E8%AF%97%E6%96%87/</loc>
-    <lastmod>2022-02-03</lastmod>
+    <lastmod>2022-02-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
