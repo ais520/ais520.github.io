@@ -13,9 +13,7 @@
       
       <categories>
           
-          <category> 古诗文 </category>
-          
-          <category> 历史 </category>
+          <category> 人文 </category>
           
       </categories>
       
@@ -23,6 +21,8 @@
         <tags>
             
             <tag> 古诗文 </tag>
+            
+            <tag> 人文 </tag>
             
         </tags>
       
@@ -40,8 +40,6 @@
       
       <categories>
           
-          <category> 古诗文 </category>
-          
           <category> 人文 </category>
           
       </categories>
@@ -50,6 +48,8 @@
         <tags>
             
             <tag> 古诗文 </tag>
+            
+            <tag> 人文 </tag>
             
         </tags>
       
