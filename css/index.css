@@ -3148,7 +3148,7 @@ h1.page-title + .tag-cloud-list {
 }
 #page-header.full_page #site-info {
   position: absolute;
-  top: 30%;
+  top: 20%;
   padding: 0 10px;
   width: 100%;
 }
@@ -5723,31 +5723,6 @@ blockquote.pullquote.right {
     max-height: 75vh !important;
   }
 }
-::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
-}
-::-webkit-scrollbar-track {
-  background-color: rgba(73,177,245,0.2);
-  border-radius: 2em;
-}
-::-webkit-scrollbar-thumb {
-  background-color: #49b1f5;
-  background-image: -webkit--webkit-linear-gradient(45deg, rgba(255,255,255,0.4) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.4) 50%, rgba(255,255,255,0.4) 75%, transparent 75%, transparent);
-  background-image: -webkit--moz-linear-gradient(45deg, rgba(255,255,255,0.4) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.4) 50%, rgba(255,255,255,0.4) 75%, transparent 75%, transparent);
-  background-image: -webkit--o-linear-gradient(45deg, rgba(255,255,255,0.4) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.4) 50%, rgba(255,255,255,0.4) 75%, transparent 75%, transparent);
-  background-image: -webkit--ms-linear-gradient(45deg, rgba(255,255,255,0.4) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.4) 50%, rgba(255,255,255,0.4) 75%, transparent 75%, transparent);
-  background-image: -webkit-linear-gradient(45deg, rgba(255,255,255,0.4) 25%, transparent 25%, transparent 50%, rgba(255,255,255,0.4) 50%, rgba(255,255,255,0.4) 75%, transparent 75%, transparent);
-  border-radius: 2em;
-}
-::-webkit-scrollbar-corner {
-  background-color: transparent;
-}
-::-moz-selection {
-  color: #fff;
-  background-color: #49b1f5;
-}
-/* 背景宇宙星光  */
 #universe {
   display: block;
   position: fixed;
