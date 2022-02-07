@@ -5098,17 +5098,7 @@ li.categoryBar-list-item:nth-child(1) {
   background: url('https://s3.bmp.ovh/imgs/2022/02/2d28006d06917145.jpg');
 }
 li.categoryBar-list-item:nth-child(2) {
-  background: #abcdef;
-}
-li.categoryBar-list-item:nth-child(3) {
-  background: rgba(45,67,89,0.7);
-}
-li.categoryBar-list-item:nth-child(4) {
-  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -moz-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -o-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: -ms-linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
-  background: linear-gradient(rgba(0, 0, 0, 0.4) 25%, rgba(200,16 , 16, 0) 100%);
+  background: url('https://s3.bmp.ovh/imgs/2022/02/e02ad0e38b180f01.jpg');
 }
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: '诗酒乘年华' !important;
