@@ -5192,11 +5192,17 @@ li.categoryBar-list-item:nth-child(1) {
 li.categoryBar-list-item:nth-child(2) {
   background: url('https://s3.bmp.ovh/imgs/2022/02/e02ad0e38b180f01.jpg');
 }
+li.categoryBar-list-item:nth-child(3) {
+  background: url('https://imgtu.com/i/H1fAzT');
+}
 li.categoryBar-list-item:nth-child(1)>span::after {
   content: '诗酒乘年华' !important;
 }
 li.categoryBar-list-item:nth-child(2)>span::after {
   content: '缥缈孤鸿影' !important;
+}
+li.categoryBar-list-item:nth-child(3)>span::after {
+  content: '一蓑烟雨任平生' !important;
 }
 li.categoryBar-list-item {
   width: 24% !important;
