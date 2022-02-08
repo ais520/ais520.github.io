@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title></title>
+      <title>数字信号处理课设</title>
       <link href="/2022/02/08/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E8%AF%BE%E8%AE%BE/"/>
       <url>/2022/02/08/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E8%AF%BE%E8%AE%BE/</url>
       
-        <content type="html"><![CDATA[<hr><p>title: 数字信号处理课设<br>date: 2022-02-08 16:28:11<br>tags: </p><ul><li><p>[Matlab]</p></li><li><p>[数字信号处理]</p></li></ul><p>categories: 课程学习<br>swiper_index: 4<br>description: 基于Matlab-GUI的语音信号处理系统<br>top_img: false<br>cover: <a href="https://imgtu.com/i/H1gBKH">https://imgtu.com/i/H1gBKH</a></p><h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><h3 id="原始数据："><a href="#原始数据：" class="headerlink" title="原始数据："></a>原始数据：</h3><p>录制一段组员的语音文件及一段噪音信号</p><h3 id="技术要求："><a href="#技术要求：" class="headerlink" title="技术要求："></a>技术要求：</h3><p>（1）对原始语音信号和噪音信号进行频谱分析，画出两种信号的时域波形和频谱图，并对比分析其频谱特性；</p><p>（2）将语音信号和噪音信号叠加为一路信号，根据上述信号的频谱特性，自行设计一滤波器对噪声信号进行滤除，对比分析滤波前后语音信号的频谱特性，并画出滤波器的频域图。</p>]]></content>
+        <content type="html"><![CDATA[<h2 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h2><h3 id="原始数据："><a href="#原始数据：" class="headerlink" title="原始数据："></a>原始数据：</h3><p>​    录制一段组员的语音文件及一段噪音信号</p><h3 id="技术要求："><a href="#技术要求：" class="headerlink" title="技术要求："></a>技术要求：</h3><p>​    （1）对原始语音信号和噪音信号进行频谱分析，画出两种信号的时域波形和频谱图，并对比分析其频谱特性；</p><p>​    （2）将语音信号和噪音信号叠加为一路信号，根据上述信号的频谱特性，自行设计一滤波器对噪声信号进行滤除，对比分析滤波前后语音信号的频谱特性，并画出滤波器的频域图。</p>]]></content>
       
       
+      <categories>
+          
+          <category> 课程学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Matlab </tag>
+            
+            <tag> 数字信号处理 </tag>
+            
+        </tags>
       
     </entry>
     
