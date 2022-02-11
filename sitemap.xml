@@ -110,6 +110,27 @@
 
   
   <url>
+    <loc>https://www.echo24.top/tags/%E5%8F%A4%E8%AF%97%E6%96%87/</loc>
+    <lastmod>2022-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.echo24.top/tags/%E4%BA%BA%E6%96%87/</loc>
+    <lastmod>2022-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.echo24.top/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2022-02-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.echo24.top/tags/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -118,13 +139,6 @@
   
   <url>
     <loc>https://www.echo24.top/tags/STM32/</loc>
-    <lastmod>2022-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.echo24.top/tags/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -144,24 +158,10 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://www.echo24.top/tags/%E5%8F%A4%E8%AF%97%E6%96%87/</loc>
-    <lastmod>2022-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.echo24.top/tags/%E4%BA%BA%E6%96%87/</loc>
-    <lastmod>2022-02-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://www.echo24.top/categories/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
+    <loc>https://www.echo24.top/categories/%E4%BA%BA%E6%96%87/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -175,14 +175,14 @@
   </url>
   
   <url>
-    <loc>https://www.echo24.top/categories/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://www.echo24.top/categories/%E5%8D%95%E7%89%87%E6%9C%BA/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://www.echo24.top/categories/%E4%BA%BA%E6%96%87/</loc>
+    <loc>https://www.echo24.top/categories/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2022-02-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
