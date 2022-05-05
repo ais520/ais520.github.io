@@ -357,6 +357,20 @@ span.categoryBar-list-count::before,
   -ms-animation: donate_effcet 0.3s 0.1s ease both;
   animation: donate_effcet 0.3s 0.1s ease both;
 }
+#universe {
+  display: block;
+  position: fixed;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: -1;
+}
 @-moz-keyframes scroll-down-effect {
   0% {
     top: 0;
@@ -1887,20 +1901,6 @@ blockquote > :last-child {
 .nav-rightbutton {
   font-size: 1em;
   padding-left: 0.4rem !important;
-}
-#universe {
-  display: block;
-  position: fixed;
-  margin: 0;
-  padding: 0;
-  border: 0;
-  outline: 0;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: -1;
 }
 :root {
   --mj-white: #fff;
