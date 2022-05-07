@@ -5482,6 +5482,9 @@ blockquote.pullquote.right {
 [data-theme='dark'] #operare_artitalk .c2 {
   background: #121212;
 }
+#web_bg {
+  background: url("https://cdn.jsdelivr.net/gh/Justlovesmile/CDN/gallery/darkmodepicture6.jpg");
+}
 .read-mode {
   --font-color: #4c4948;
   --readmode-light-color: #fff;
