@@ -83,29 +83,6 @@
   </entry>
   
   <entry>
-    <title>数字信号处理课设</title>
-    <link href="https://www.echo24.top/2022/02/08/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E8%AF%BE%E8%AE%BE/"/>
-    <id>https://www.echo24.top/2022/02/08/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E8%AF%BE%E8%AE%BE/</id>
-    <published>2022-02-08T08:28:11.000Z</published>
-    <updated>2022-05-07T02:50:26.153Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="原始数据："><a href="#原始数据：" class="headerlink" title="原始数据："></a>原始数据：</h3><p>​    录制一段组员的语音文件及一段噪音信号</p><h3 id="技术要求："><a href="#技术要求：" class="headerlink" title="技术要求："></a>技术要求：</h3><p>​    （1）对原始语音信号和噪音信号进行频谱分析，画出两种信号的时域波形和频谱图，并对比分析其频谱特性；</p><p>​    （2）将语音信号和噪音信号叠加为一路信号，根据上述信号的频谱特性，自行设计一滤波器对噪声信号进行滤除，对比分析滤波前后语音信号的频谱特性，并画出滤波器的频域图。</p><div class="row">    <embed src="./课设报告GUI界面.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
-    
-    
-    <summary type="html">基于Matlab-GUI的语音信号处理系统</summary>
-    
-    
-    
-    <category term="课程学习" scheme="https://www.echo24.top/categories/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="Matlab" scheme="https://www.echo24.top/tags/Matlab/"/>
-    
-    <category term="数字信号处理" scheme="https://www.echo24.top/tags/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
     <title>矩阵键盘</title>
     <link href="https://www.echo24.top/2022/02/07/STM32%E2%80%944X4%E7%9F%A9%E9%98%B5%E9%94%AE%E7%9B%98/"/>
     <id>https://www.echo24.top/2022/02/07/STM32%E2%80%944X4%E7%9F%A9%E9%98%B5%E9%94%AE%E7%9B%98/</id>
@@ -173,6 +150,53 @@
     <category term="古诗文" scheme="https://www.echo24.top/tags/%E5%8F%A4%E8%AF%97%E6%96%87/"/>
     
     <category term="人文" scheme="https://www.echo24.top/tags/%E4%BA%BA%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数字信号处理课设</title>
+    <link href="https://www.echo24.top/2022/01/12/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E8%AF%BE%E8%AE%BE/"/>
+    <id>https://www.echo24.top/2022/01/12/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86%E8%AF%BE%E8%AE%BE/</id>
+    <published>2022-01-12T08:28:11.000Z</published>
+    <updated>2022-05-07T03:26:34.356Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="原始数据："><a href="#原始数据：" class="headerlink" title="原始数据："></a>原始数据：</h3><p>​    录制一段组员的语音文件及一段噪音信号</p><h3 id="技术要求："><a href="#技术要求：" class="headerlink" title="技术要求："></a>技术要求：</h3><p>​    （1）对原始语音信号和噪音信号进行频谱分析，画出两种信号的时域波形和频谱图，并对比分析其频谱特性；</p><p>​    （2）将语音信号和噪音信号叠加为一路信号，根据上述信号的频谱特性，自行设计一滤波器对噪声信号进行滤除，对比分析滤波前后语音信号的频谱特性，并画出滤波器的频域图。</p><div class="row">    <embed src="./课设报告GUI界面.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+    <summary type="html">基于Matlab-GUI的语音信号处理系统</summary>
+    
+    
+    
+    <category term="课程学习" scheme="https://www.echo24.top/categories/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Matlab" scheme="https://www.echo24.top/tags/Matlab/"/>
+    
+    <category term="数字信号处理" scheme="https://www.echo24.top/tags/%E6%95%B0%E5%AD%97%E4%BF%A1%E5%8F%B7%E5%A4%84%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音频放大电路</title>
+    <link href="https://www.echo24.top/2022/01/10/%E9%9F%B3%E9%A2%91%E6%94%BE%E5%A4%A7%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%EF%BC%88%E9%80%89%E4%BF%AE%E8%AF%BE%EF%BC%89/"/>
+    <id>https://www.echo24.top/2022/01/10/%E9%9F%B3%E9%A2%91%E6%94%BE%E5%A4%A7%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%EF%BC%88%E9%80%89%E4%BF%AE%E8%AF%BE%EF%BC%89/</id>
+    <published>2022-01-10T08:28:11.000Z</published>
+    <updated>2022-05-07T03:26:20.050Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="项目目的："><a href="#项目目的：" class="headerlink" title="项目目的："></a>项目目的：</h3><p>​        熟悉小信号放大器、加法器、功率放大器、直流稳压电源、AD、单片机工作原理，并能够用以上电路构成一个实用的电子系统。</p><h3 id="项目内容："><a href="#项目内容：" class="headerlink" title="项目内容："></a>项目内容：</h3><p>​        设计并制作一个具有以下功能的音频功率放大器：将来自麦克风的音频信号送入前置放大器中进行电压放大，然后经过功率放大器进行功率放大后推动扬声器工作，该放大器具有电源电量指示功能。</p><div class="row">    <embed src="./电子系统设计与开发项目报告.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;项目目的：&quot;&gt;&lt;a href=&quot;#项目目的：&quot; class=&quot;headerlink&quot; title=&quot;项目目的：&quot;&gt;&lt;/a&gt;项目目的：&lt;/h3&gt;&lt;p&gt;​        熟悉小信号放大器、加法器、功率放大器、直流稳压电源、AD、单片机工作原理，并能够用以上电路构成一个</summary>
+      
+    
+    
+    
+    <category term="课程学习" scheme="https://www.echo24.top/categories/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="模电" scheme="https://www.echo24.top/tags/%E6%A8%A1%E7%94%B5/"/>
     
   </entry>
   
