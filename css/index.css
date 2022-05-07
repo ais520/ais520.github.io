@@ -1392,6 +1392,92 @@ li {
   }
 }
 :root {
+  --mj-white: #fff;
+  --mj-black: #000;
+  --mj-none: rgba(0,0,0,0);
+  --mj-gray: #999;
+  --mj-yellow: #ffc93e;
+  --mj-pink: #f08080;
+  --mj-main: #007aff;
+  --mj-shadow-blue: 0 8px 12px -3px rgba(40,109,234,0.2);
+  --mj-shadow-white: 0 8px 12px -3px rgba(255,255,255,0.2);
+  --mj-shadow-black: 0 0 12px 4px rgba(0,0,0,0.05);
+  --mj-shadow-yellow: 0px 38px 77px -26px rgba(255,201,62,0.12);
+  --mj-shadow-pink: 0 8px 12px -3px rgba(238,125,121,0.212);
+  --mj-logo-color: linear-gradient(215deg, #4584ff 30%, #ff7676 70%);
+  --global-font-size: 16px;
+  --mj-light-box-shadow: 0 1px 8px 0 #f0f00c;
+  --style-hover-border: 1px solid var(--mj-theme);
+  --search-bg: var(--mj-card-bg);
+  --text-bg-hover: var(--mj-theme);
+  --card-box-shadow: none;
+  --card-hover-box-shadow: none;
+}
+::selection {
+  background: var(--mj-blue);
+  color: var(--mj-white);
+}
+[data-theme=light] {
+  --mj-theme: #425aef;
+  --mj-blue: #425aef;
+  --mj-red: #d8213c;
+  --mj-green: #008200;
+  --mj-fontcolor: #363636;
+  --mj-background: #f7f9fe;
+  --mj-reverse: #000;
+  --mj-maskbg: rgba(255,255,255,0.6);
+  --mj-hovertext: #5374ff;
+  --mj-ahoverbg: #f7f7fa;
+  --mj-lighttext: #ef794f;
+  --mj-secondtext: rgba(60,60,67,0.6);
+  --mj-scrollbar: rgba(60,60,67,0.4);
+  --mj-card-btn-bg: #f1f2f2;
+  --mj-post-blockquote-bg: #f7f9fe;
+  --mj-post-tabs-bg: #f2f5f8;
+  --mj-secondbg: #ededed;
+  --mj-shadow-nav: 0 5px 12px -5px rgba(102,68,68,0.3);
+  --mj-card-bg: #fff;
+  --mj-shadow-lightblack: 0 5px 12px -5px rgba(102,68,68,0);
+  --mj-shadow-light2black: 0 5px 12px -5px rgba(102,68,68,0);
+  --mj-card-border: #e3e8f7;
+  --style-border: 1px solid var(--mj-card-border);
+  --mj-readmodebg: #e8e1e1;
+  --mj-transparent-card-bg: rgba(255,255,255,0.8);
+}
+[data-theme=dark] {
+  --mj-theme: #0084ff;
+  --mj-blue: #0084ff;
+  --mj-red: #ff3842;
+  --mj-green: #0f0;
+  --mj-fontcolor: #f7f7fa;
+  --mj-background: #18171d;
+  --mj-reverse: #fff;
+  --mj-maskbg: rgba(0,0,0,0.6);
+  --mj-hovertext: #425aef;
+  --mj-ahoverbg: #fff;
+  --mj-lighttext: #f2b94b;
+  --mj-secondtext: #a1a2b8;
+  --mj-scrollbar: rgba(200,200,223,0.4);
+  --mj-card-btn-bg: #2e2d38;
+  --mj-post-blockquote-bg: #1e1e1e;
+  --mj-post-tabs-bg: #121212;
+  --mj-secondbg: #30343f;
+  --mj-shadow-nav: 0 5px 20px 0px rgba(28,28,28,0.4);
+  --mj-card-bg: #1e1f26; /*#1d1b26;*/
+  --mj-shadow-lightblack: 0 5px 12px -5px rgba(102,68,68,0);
+  --mj-shadow-light2black: 0 5px 12px -5px rgba(102,68,68,0);
+  --btn-color: #f7f7fa;
+  --text-highlight-color: #f7f7fa;
+  --text-bg-hover: #0084ff;
+  --btn-hover-color: var(--mj-theme);
+  --mj-card-border: #42444a;
+  --style-border: 1px solid var(--mj-card-border);
+  --mj-readmodebg: #0d0d0d;
+  --mj-transparent-card-bg: rgba(19,20,21,0.8);
+  --bbtalk-color: #30343f;
+  --mj-darkmode-btn: #ffc93e;
+}
+:root {
   --global-font-size: 14px;
   --global-bg: #fff;
   --font-color: #4c4948;
