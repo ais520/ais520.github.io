@@ -88,16 +88,12 @@
       
       <categories>
           
-          <category> 单片机 </category>
-          
-          <category> STM32 </category>
+          <category> 嵌入式 </category>
           
       </categories>
       
       
         <tags>
-            
-            <tag> 单片机 </tag>
             
             <tag> STM32 </tag>
             
@@ -117,16 +113,14 @@
       
       <categories>
           
-          <category> 人文 </category>
+          <category> 数风流人物 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 古诗文 </tag>
-            
-            <tag> 人文 </tag>
+            <tag> 诗词 </tag>
             
         </tags>
       
@@ -144,16 +138,14 @@
       
       <categories>
           
-          <category> 人文 </category>
+          <category> 数风流人物 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 古诗文 </tag>
-            
-            <tag> 人文 </tag>
+            <tag> 诗词 </tag>
             
         </tags>
       
