@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.echo24.top/gallery/ball/index.html</loc>
+    <loc>https://www.echo24.top/gallery/index.html</loc>
     
     <lastmod>2022-07-02</lastmod>
     
@@ -12,15 +12,6 @@
   
   <url>
     <loc>https://www.echo24.top/gallery/life/index.html</loc>
-    
-    <lastmod>2022-07-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.echo24.top/gallery/index.html</loc>
     
     <lastmod>2022-07-02</lastmod>
     
