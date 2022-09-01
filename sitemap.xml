@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://www.echo24.top/gallery/life/index.html</loc>
+    <loc>https://www.echo24.top/about/index.html</loc>
     
-    <lastmod>2022-07-02</lastmod>
+    <lastmod>2022-09-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://www.echo24.top/gallery/index.html</loc>
+    
+    <lastmod>2022-09-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.echo24.top/gallery/life/index.html</loc>
     
     <lastmod>2022-07-02</lastmod>
     
@@ -23,15 +32,6 @@
     <loc>https://www.echo24.top/2022/06/30/%E4%BA%94%E6%9C%88%E9%9B%A8/</loc>
     
     <lastmod>2022-07-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.echo24.top/about/index.html</loc>
-    
-    <lastmod>2022-06-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -173,13 +173,6 @@
 
   
   <url>
-    <loc>https://www.echo24.top/tags/STM32/</loc>
-    <lastmod>2022-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.echo24.top/tags/%E8%AE%B0%E5%BD%95/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,7 +180,7 @@
   </url>
   
   <url>
-    <loc>https://www.echo24.top/tags/%E8%AF%97%E8%AF%8D/</loc>
+    <loc>https://www.echo24.top/tags/STM32/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -208,6 +201,13 @@
   </url>
   
   <url>
+    <loc>https://www.echo24.top/tags/%E8%AF%97%E8%AF%8D/</loc>
+    <lastmod>2022-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.echo24.top/tags/%E6%A8%A1%E7%94%B5/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -217,13 +217,6 @@
 
   
   <url>
-    <loc>https://www.echo24.top/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
-    <lastmod>2022-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.echo24.top/categories/%E7%A0%94%E9%80%94/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -231,7 +224,7 @@
   </url>
   
   <url>
-    <loc>https://www.echo24.top/categories/%E6%95%B0%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%89%A9/</loc>
+    <loc>https://www.echo24.top/categories/%E5%B5%8C%E5%85%A5%E5%BC%8F/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -239,6 +232,13 @@
   
   <url>
     <loc>https://www.echo24.top/categories/%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-09-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.echo24.top/categories/%E6%95%B0%E9%A3%8E%E6%B5%81%E4%BA%BA%E7%89%A9/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
